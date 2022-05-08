@@ -3,7 +3,7 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
+## Notas remoto
 Pueden hacer lo que quieran...
 
 ## Nueva linea VIVA EPAna
