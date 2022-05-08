@@ -6,4 +6,8 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## Notas
 Pueden hacer lo que quieran...
 
+<<<<<<< HEAD
 ## Nueva linea VIVA EPAna
+=======
+## Nueva linea porq si
+>>>>>>> 6ca6bd2 (nuevo readme)
